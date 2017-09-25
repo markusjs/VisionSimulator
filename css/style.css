@@ -1,0 +1,9 @@
+.intro {
+  text-align: center; }
+  .intro h1 {
+    font-family: "pixelsix00"; }
+
+body > div:nth-child(12) {
+  background-color: transparent; }
+
+/*# sourceMappingURL=style.css.map */

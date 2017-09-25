@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/markusjs/VisionSimulator/issues"
   },
-  "homepage": "https://github.com/markusjs/VisionSimulator#readme"
+  "homepage": "https://github.com/markusjs/VisionSimulator#readme",
+  "dependencies": {
+    "p5": "^0.5.14"
+  },
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
 }
